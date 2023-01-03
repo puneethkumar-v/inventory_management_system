@@ -119,6 +119,7 @@ section {
   border-radius: 12px;
   padding: 1.2rem 1.4rem;
   display: flex;
+  transition: all 0.175s;
   flex-direction: column;
   box-shadow: 20px 17px 35px -15px rgba(0, 0, 0, 0.08);
   -webkit-box-shadow: 20px 17px 35px -15px rgba(0, 0, 0, 0.08);
